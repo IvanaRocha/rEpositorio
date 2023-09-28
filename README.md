@@ -1,6 +1,6 @@
 ##El trabajo esta hecho por Ivana Rocha Campos y Maribel Ramirez Torres.
 
-#Pajaros en el aire 
+#Pajaros en el Cielo 
 
 ##Pajaros en el aire
 Coloca aquí el nombre del personaje
