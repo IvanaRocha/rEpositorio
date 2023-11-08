@@ -10,7 +10,7 @@
 |-|-|-|-|
 |ESP32|Microcontralador con comunicación serial, wifi, bluetooth|1|$140.00|
 |alambre|no lo tendre que comprar pues ya tengo alambre|
-|Plumas Azules y Blancas||2 bolsas||$80|
+|Plumas Azules y Blancas|2 bolsas|se utilizar para adornar el pajaro para que se vea linda|$80|
 |Cables Jumpers Dupont H-h, M-m, H-m 20cm 120 Pzas. Arduino|Se usaran para las conexiones||$66|
 |Buzzer Zumbador Electrónico 12 Volts 95db Sonido Continuo|Se utilizara para el sonido||$65|
 |100 Leds Difusos 5mm Rojo, Ambar, Azul, Verde, Blanco|se utilizara para el area del pico||$56|
