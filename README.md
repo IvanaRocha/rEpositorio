@@ -2,7 +2,7 @@
 
 
 
-##Pajaros en el aire
+##Pajaros en el aire.
 
 
 ##Materiales utilizados
