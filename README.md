@@ -17,7 +17,7 @@
 |Cartulinas |5||$20|
 | Ojos |2| |$12|
 |tubo|se utilizara para soster al pajaro|1|$150|
-|Base de lleso|Se utilizaran para que el pajaro haga una vicion de ue esta bolando|1||$300| 
+|Base de lleso|Se utilizaran para que el pajaro haga una vicion de ue esta bolando|1|$300| 
 
 
 ##Software utilizado
