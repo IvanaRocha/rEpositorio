@@ -11,13 +11,13 @@
 |ESP32|Microcontralador con comunicación serial, wifi, bluetooth|1|$140.00|
 |alambre|no lo tendre que comprar pues ya tengo alambre|
 |Plumas Azules y Blancas||2 bolsas||$80|
-|Cables Jumpers Dupont H-h, M-m, H-m 20cm 120 Pzas. Arduino|$66|
-|Buzzer Zumbador Electrónico 12 Volts 95db Sonido Continuo|$65|
-|100 Leds Difusos 5mm Rojo, Ambar, Azul, Verde, Blanco|$56|
+|Cables Jumpers Dupont H-h, M-m, H-m 20cm 120 Pzas. Arduino|Se usaran para las conexiones||$66|
+|Buzzer Zumbador Electrónico 12 Volts 95db Sonido Continuo|Se utilizara para el sonido||$65|
+|100 Leds Difusos 5mm Rojo, Ambar, Azul, Verde, Blanco|se utilizara para el area del pico||$56|
 |Cartulinas |5||$20|
 | Ojos |2| |$12|
-|tubo|$150|
-|Base de madera|$250| 
+|tubo|se utilizara para soster al pajaro|$150|
+|Base de madera|Se utilizaran para que el pajaro haga una vicion de ue esta bolando|$250| 
 
 
 ##Software utilizado
