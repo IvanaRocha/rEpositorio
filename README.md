@@ -16,8 +16,8 @@
 |100 Leds Difusos 5mm Rojo, Ambar, Azul, Verde, Blanco|se utilizara para el area del pico||$56|
 |Cartulinas |5||$20|
 | Ojos |2| |$12|
-|tubo|se utilizara para soster al pajaro|$150|
-|Base de madera|Se utilizaran para que el pajaro haga una vicion de ue esta bolando|$250| 
+|tubo|se utilizara para soster al pajaro|1|$150|
+|Base de lleso|Se utilizaran para que el pajaro haga una vicion de ue esta bolando|1||$300| 
 
 
 ##Software utilizado
